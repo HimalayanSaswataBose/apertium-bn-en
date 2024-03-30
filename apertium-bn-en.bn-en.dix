@@ -296,18 +296,6 @@
         <r>with<s n="pr"/></r>
       </p>
     </e>
-    <e vr = "Barendri">
-      <p>
-        <l>দু<s n="num"/></l>
-        <r>two<s n="num"/></r>
-      </p>
-    </e>
-    <e vr = "Barendri">
-      <p>
-        <l>বত্রিশ<s n="num"/></l>
-        <r><s n="num"/></r>
-      </p>
-    </e>
     <!---->
     
     <e>
