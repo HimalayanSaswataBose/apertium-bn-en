@@ -6175,6 +6175,124 @@
         </p>
         <par n="enclitic" />
       </e>
+      <e alt="Barendri">
+        <p>
+          <l />
+          <r>
+            <s n="np" />
+            <s n="m" />
+            <s n="ant" />
+            <s n="sg" />
+            <s n="nom" />
+          </r>
+        </p>
+        <par n="enclitic" />
+      </e>
+      <e alt="Barendri">
+        <p>
+          <l>ঘর</l>
+          <r>
+            <s n="np" />
+            <s n="m" />
+            <s n="ant" />
+            <s n="pl" />
+            <s n="nom" />
+          </r>
+        </p>
+        <par n="enclitic" />
+      </e>
+      <e alt="Barendri">
+        <p>
+          <l>ঘরের</l>
+          <r>
+            <s n="np" />
+            <s n="m" />
+            <s n="ant" />
+            <s n="pl" />
+            <s n="gen" />
+          </r>
+        </p>
+        <par n="enclitic" />
+      </e>
+      <e alt="Barendri">
+        <p>
+          <l>ক</l>
+          <r>
+            <s n="np" />
+            <s n="m" />
+            <s n="ant" />
+            <s n="sg" />
+            <s n="obj" />
+          </r>
+        </p>
+        <par n="enclitic" />
+      </e>
+      <e alt="Barendri">
+        <p>
+          <l>সব</l>
+          <r>
+            <s n="np" />
+            <s n="m" />
+            <s n="ant" />
+            <s n="pl" />
+            <s n="nom" />
+          </r>
+        </p>
+        <par n="enclitic" />
+      </e>
+      <e alt="Barendri">
+        <p>
+          <l>দের</l>
+          <r>
+            <s n="np" />
+            <s n="m" />
+            <s n="ant" />
+            <s n="pl" />
+            <s n="gen" />
+          </r>
+        </p>
+        <par n="enclitic" />
+      </e>
+      <e alt="Barendri">
+        <p>
+          <l>রা</l>
+          <r>
+            <s n="np" />
+            <s n="m" />
+            <s n="ant" />
+            <s n="pl" />
+            <s n="nom" />
+          </r>
+        </p>
+        <par n="enclitic" />
+      </e>
+      <e alt="Barendri">
+        <p>
+          <l>ঘরেক</l>
+          <r>
+            <s n="np" />
+            <s n="m" />
+            <s n="ant" />
+            <s n="pl" />
+            <s n="obj" />
+          </r>
+        </p>
+        <par n="enclitic" />
+      </e>
+      <e alt="Barendri">
+        <p>
+          <l>টাক</l>
+          <r>
+            <s n="np" />
+            <s n="m" />
+            <s n="ant" />
+            <s n="sg" />
+            <s n="obj" />
+            <s n="def" />
+          </r>
+        </p>
+        <par n="enclitic" />
+      </e>
     </pardef>
     <pardef n="ঢাকা__np_mf">
       <e>
@@ -32045,126 +32163,6 @@
     <!--Change of Variety-->
 
     <!--Nouns-->
-    <pardef n="বাবু__np_m">
-      <e alt="Barendri">
-        <p>
-          <l />
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="sg" />
-            <s n="nom" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>ঘর</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="nom" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>ঘরের</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="gen" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>ক</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="sg" />
-            <s n="obj" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>সব</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="nom" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>দের</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="gen" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>রা</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="nom" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>ঘরেক</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="obj" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>টাক</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="sg" />
-            <s n="obj" />
-            <s n="def" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-    </pardef>
     <pardef n="কারবার__n">
       <e alt="Barendri">
         <p>
@@ -32421,154 +32419,8 @@
         <par n="enclitic" />
       </e>
     </pardef>
-    <pardef n="সুদ__n">
-      <e alt="Barendri">
-        <p>
-          <l />
-          <r>
-            <s n="n" />
-            <s n="nom" />
-            <s n="nn" />
-            <s n="sg" />
-            <s n="nt" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>েত</l>
-          <r>
-            <s n="n" />
-            <s n="loc" />
-            <s n="nn" />
-            <s n="sg" />
-            <s n="nt" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>খোর</l>
-          <r>
-            <s n="n" />
-            <s n="nom" />
-            <s n="hu" />
-            <s n="sg" />
-            <s n="mf" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>খোরঘর</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="nom" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>খোরঘরের</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="gen" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>খোরক</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="sg" />
-            <s n="obj" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>খোরসব</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="nom" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>খোরদের</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="gen" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>খোররা</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="nom" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>খোরঘরেক</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="pl" />
-            <s n="obj" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>খোরটাক</l>
-          <r>
-            <s n="np" />
-            <s n="m" />
-            <s n="ant" />
-            <s n="sg" />
-            <s n="obj" />
-            <s n="def" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-    </pardef>
     <pardef n="বচ্ছর__n">
-      <e>
+      <e alt="Barendri">
         <p>
           <l />
           <r>
@@ -32581,7 +32433,7 @@
         </p>
         <par n="enclitic" />
       </e>
-      <e>
+      <e alt="Barendri">
         <p>
           <l>গুলা</l>
           <r>
@@ -32594,7 +32446,7 @@
         </p>
         <par n="enclitic" />
       </e>
-      <e>
+      <e alt="Barendri">
         <p>
           <l />
           <r>
@@ -32607,7 +32459,7 @@
         </p>
         <par n="enclitic" />
       </e>
-      <e>
+      <e alt="Barendri">
         <p>
           <l>গুলা</l>
           <r>
@@ -32620,7 +32472,7 @@
         </p>
         <par n="enclitic" />
       </e>
-      <e>
+      <e alt="Barendri">
         <p>
           <l>টা</l>
           <r>
@@ -32634,7 +32486,7 @@
         </p>
         <par n="enclitic" />
       </e>
-      <e>
+      <e alt="Barendri">
         <p>
           <l>ের</l>
           <r>
@@ -32647,7 +32499,7 @@
         </p>
         <par n="enclitic" />
       </e>
-      <e>
+      <e alt="Barendri">
         <p>
           <l>গুলার</l>
           <r>
@@ -32660,7 +32512,7 @@
         </p>
         <par n="enclitic" />
       </e>
-      <e>
+      <e alt="Barendri">
         <p>
           <l>টার</l>
           <r>
@@ -32674,7 +32526,7 @@
         </p>
         <par n="enclitic" />
       </e>
-      <e>
+      <e alt="Barendri">
         <p>
           <l>ত</l>
           <r>
@@ -32687,7 +32539,7 @@
         </p>
         <par n="enclitic" />
       </e>
-      <e>
+      <e alt="">
         <p>
           <l>গুলাত</l>
           <r>
@@ -33442,12 +33294,15 @@
     </pardef>
     <pardef n="থো__vblex">
       <e alt="Barendri">
-        <l />
-        <r>
-          <s n="vblex" />
-          <s n="smpl" />
-          <s n="imp" />
-        </r>
+        <p>
+          <l />
+          <r>
+            <s n="vblex" />
+            <s n="smpl" />
+            <s n="imp" />
+          </r>
+        </p>
+        <par n = "enclitic" />
       </e>
     </pardef>
     <pardef n="সেন্দা__vblex">
@@ -33971,7 +33826,7 @@
           <l>ায় দিবে</l>
           <r>
             <s n="vblex" />
-            <s n="simpl" />
+            <s n="smpl" />
             <s n="ft" />
             <s n="p2" />
           </r>
@@ -34268,8 +34123,8 @@
     <pardef n="ম/ুই__prn">
       <e alt="Barendri">
         <p>
-          <l></l>
-          <r>
+          <l>ুই</l>
+          <r>ুই
             <s n="prn" />
             <s n="p1" />
             <s n="aa" />
@@ -34310,8 +34165,8 @@
     <pardef n="হা/রা__prn">
       <e alt="Barendri">
         <p>
-          <l></l>
-          <r>
+          <l>রা</l>
+          <r>রা
             <s n="prn" />
             <s n="p1" />
             <s n="aa" />
@@ -34324,8 +34179,8 @@
       </e>
       <e alt="Barendri">
         <p>
-          <l>রা</l>
-          <r>মার <s n="prn" />
+          <l>মার</l>
+          <r>রা <s n="prn" />
             <s n="p1" />
             <s n="aa" />
             <s n="mf" />
@@ -34427,39 +34282,6 @@
           </r>
         </p>
         <par n="enclitic" />
-      </e>
-    </pardef>
-
-    <!--Numerals-->
-    <pardef n="দু__num">
-      <e alt="Barendri">
-        <p>
-          <l />
-          <r>
-            <s n="num" />
-            <s n="an" />
-          </r>
-        </p>
-        <par n = "enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>টা</l>
-          <r>
-            <s n="num" />
-          </r>
-        </p>
-        <par n = "enclitic" />
-      </e>
-      <e alt="Barendri">
-        <p>
-          <l>জন</l>
-          <r>
-            <s n="num" />
-            <s n="hu" />
-          </r>
-        </p>
-        <par n = "enclitic" />
       </e>
     </pardef>
 
@@ -67508,153 +67330,141 @@
     </e>
 
     <!--Barendri Variations-->
-     <e lm="চোরাবাজার">
+     <e lm="চোরাবাজার" alt="Barendri">
        <i>চোরাবাজার</i>
-       <par n="বাবু__np_m" />
+       <par n="লা__np_m" />
      </e>
-     <e lm="নাপিত">
+     <e lm="নাপিত" alt="Barendri">
        <i>নাপিত</i>
-       <par n="বাবু__np_m" />
+       <par n="লা__np_m" />
      </e>
-     <e lm="ওই তনে">
+     <e lm="ওই তনে" alt="Barendri">
        <i>ওই<b />তনে</i>
        <par n="ও__cnjcoo" />
      </e>
-     <e lm="বাবু">
-       <i>বাবু</i>
-       <par n="বাবু__np_m" />
-     </e>
-     <e lm="কারবার">
+     <e lm="কারবার" alt="Barendri">
        <i>কারবার</i>
        <par n="কারবার__n" />
      </e>
-     <e lm="গা">
+     <e lm="গা" alt="Barendri">
        <i>গা</i>
        <par n="গা__n" />
      </e>
-     <e lm="সুদ">
+     <e lm="সুদ" alt="Barendri">
        <i>সুদ</i>
        <par n="সুদ__n" />
      </e>
-     <e lm="পয়সা">
+     <e lm="পয়সা" alt="Barendri">
        <i>পয়সা</i>
        <par n="পয়সা__n" />
      </e>
-     <e lm="ফেরতা">
+     <e lm="ফেরতা" alt="Barendri">
        <i>ফেরতা</i>
        <par n="ফেরতা__adj" />
      </e>
-     <e lm="বচ্ছর">
+     <e lm="বচ্ছর" alt="Barendri">
        <i>বচ্ছর</i>
        <par n="বচ্ছর__n" />
      </e>
-     <e lm="দি">
+     <e lm="দি" alt="Barendri">
        <i>দ</i>
        <par n="দ/ি__vblex" />
      </e>
-     <e lm="কাট">
+     <e lm="কাট" alt="Barendri">
        <i>কাট</i>
        <par n="কাট__vblex" />
      </e>
-     <e lm="কান্দ">
+     <e lm="কান্দ" alt="Barendri">
        <i>কা</i>
        <par n="কা/ন্দ__vblex" />
      </e>
-     <e lm="সান">
+     <e lm="সান" alt="Barendri">
        <i>সান</i>
        <par n="সান__vblex" />
      </e>
-     <e lm="ক">
+     <e lm="ক" alt="Barendri">
        <i>ক</i>
        <par n="ক__vblex" />
      </e>
-     <e lm="খা">
+     <e lm="খা" alt="Barendri">
        <i>খা</i>
        <par n="খা__vblex" />
      </e>
-     <e lm="ডাক">
+     <e lm="ডাক" alt="Barendri">
        <i>ডাক</i>
        <par n="ডাক__vblex" />
      </e>
-     <e lm="রাখ">
+     <e lm="রাখ" alt="Barendri">
        <i>রাখ</i>
        <par n="রাখ__vblex" />
      </e>
-     <e lm="থো">
+     <e lm="থো" alt="Barendri">
        <i>থো</i>
        <par n="থো__vblex" />
      </e>
-     <e lm="সেন্দা">
+     <e lm="সেন্দা" alt="Barendri">
        <i>সেন্দা</i>
        <par n="সেন্দা__vblex" />
      </e>
-     <e lm="যা">
+     <e lm="যা" alt="Barendri">
        <i>যা</i>
        <par n="যা__vblex" />
      </e>
-     <e lm="ধর">
+     <e lm="ধর" alt="Barendri">
        <i>ধর</i>
        <par n="ধর__vblex" />
      </e>
-     <e lm="শুন">
+     <e lm="শুন" alt="Barendri">
        <i>শুন</i>
        <par n="শুন__vblex" />
      </e>
-     <e lm="উঠ">
+     <e lm="উঠ" alt="Barendri">
        <i>উঠ</i>
        <par n="উঠ__vblex" />
      </e>
-     <e lm="হাস">
+     <e lm="হাস" alt="Barendri">
        <i>হাস</i>
        <par n="হাস__vblex" />
      </e>
-     <e lm="কিন">
+     <e lm="কিন" alt="Barendri">
        <i>কিন</i>
        <par n="কিন__vblex" />
      </e>
-     <e lm="ফেল">
+     <e lm="ফেল" alt="Barendri">
        <i>ফেল</i>
        <par n="ফেল__vblex" />
      </e>
-     <e lm="মেলা">
+     <e lm="মেলা" alt="Barendri">
        <i>মেলা</i>
        <par n="মেলা__adj" />
      </e>
-     <e lm="কিপটা">
+     <e lm="কিপটা" alt="Barendri">
        <i>কিপটা</i>
        <par n="কিপটা__adj" />
      </e>
-     <e lm="মুই">
+     <e lm="মুই" alt="Barendri">
        <i>ম</i>
        <par n="ম/ুই__prn" />
      </e>
-     <e lm="হারা">
+     <e lm="হারা" alt="Barendri">
        <i>হা</i>
        <par n="হা/রা__prn" />
      </e>
-     <e lm="তোমাক">
+     <e lm="তোমাক" alt="Barendri">
        <i>তোমা</i>
        <par n="তোমা/ক__prn" />
      </e>
-     <e lm="গোরত">
+     <e lm="গোরত" alt="Barendri">
        <i>গোরত</i>
        <par n="গোরত__post" />
      </e>
-     <e lm="নিবা">
+     <e lm="নিবা" alt="Barendri">
        <i>নিবা</i>
        <par n="গোরত__post" />
      </e>
-     <e lm="থেকি">
+     <e lm="থেকি" alt="Barendri">
        <i>থেকি</i>
        <par n="গোরত__post" />
-     </e>
-     <e lm="দু">
-       <i>দু</i>
-       <par n="দু__num" />
-     </e>
-     <e lm="বত্রিশ">
-       <i>বত্রিশ</i>
-       <par n="দু__num" />
      </e>
 </section>
   <section id="final" type="inconditional">
