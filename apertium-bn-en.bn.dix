@@ -32421,21 +32421,6 @@
         <par n="enclitic" />
       </e>
     </pardef>
-    <pardef n="ফেরতা__n">
-      <e alt="Barendri">
-        <p>
-          <l />
-          <r>
-            <s n="n" />
-            <s n="nom" />
-            <s n="nn" />
-            <s n="sg" />
-            <s n="mf" />
-          </r>
-        </p>
-        <par n="enclitic" />
-      </e>
-    </pardef>
     <pardef n="সুদ__n">
       <e alt="Barendri">
         <p>
@@ -34265,7 +34250,19 @@
         <par n="enclitic" />
       </e>
     </pardef>
-
+    <pardef n="ফেরতা__adj">
+      <e alt="Barendri">
+        <p>
+          <l />
+          <r>
+            <s n="adj" />
+            <s n="sg" />
+            <s n="nt" />
+          </r>
+        </p>
+        <par n="enclitic" />
+      </e>
+    </pardef>
     <!--Pronoun-->
 
     <pardef n="ম/ুই__prn">
@@ -34432,6 +34429,7 @@
         <par n="enclitic" />
       </e>
     </pardef>
+
     <!--Numerals-->
     <pardef n="দু__num">
       <e alt="Barendri">
@@ -34442,6 +34440,7 @@
             <s n="an" />
           </r>
         </p>
+        <par n = "enclitic" />
       </e>
       <e alt="Barendri">
         <p>
@@ -34450,6 +34449,7 @@
             <s n="num" />
           </r>
         </p>
+        <par n = "enclitic" />
       </e>
       <e alt="Barendri">
         <p>
@@ -34459,6 +34459,7 @@
             <s n="hu" />
           </r>
         </p>
+        <par n = "enclitic" />
       </e>
     </pardef>
 
@@ -67507,42 +67508,155 @@
     </e>
 
     <!--Barendri Variations-->
-    <!--
-      চোরাবাজার, 
-      নাপিত, 
-      ওই তনে, 
-      বাবু, 
-      কারবার, 
-      গা, 
-      সুদ, 
-      পয়সা, 
-      দি, 
-      কাট, 
-      কান্দ, 
-      সান, 
-      ক, 
-      খা, 
-      ডাক, 
-      রাখ, 
-      থো, 
-      সেন্দা, 
-      যা, 
-      ধর, 
-      শুন, 
-      উঠ, 
-      হাস, 
-      ফেল, 
-      মেলা, 
-      কিপটা, 
-      মুই (subj, I), 
-      মুই (obj, Me), 
-      হারা (subj, We), 
-      হারা (subj, Us), 
-      তোমাক, 
-      বত্রিশ,
-    -->
-
-  </section>
+     <e lm="চোরাবাজার">
+       <i>চোরাবাজার</i>
+       <par n="বাবু__np_m" />
+     </e>
+     <e lm="নাপিত">
+       <i>নাপিত</i>
+       <par n="বাবু__np_m" />
+     </e>
+     <e lm="ওই তনে">
+       <i>ওই<b />তনে</i>
+       <par n="ও__cnjcoo" />
+     </e>
+     <e lm="বাবু">
+       <i>বাবু</i>
+       <par n="বাবু__np_m" />
+     </e>
+     <e lm="কারবার">
+       <i>কারবার</i>
+       <par n="কারবার__n" />
+     </e>
+     <e lm="গা">
+       <i>গা</i>
+       <par n="গা__n" />
+     </e>
+     <e lm="সুদ">
+       <i>সুদ</i>
+       <par n="সুদ__n" />
+     </e>
+     <e lm="পয়সা">
+       <i>পয়সা</i>
+       <par n="পয়সা__n" />
+     </e>
+     <e lm="ফেরতা">
+       <i>ফেরতা</i>
+       <par n="ফেরতা__adj" />
+     </e>
+     <e lm="বচ্ছর">
+       <i>বচ্ছর</i>
+       <par n="বচ্ছর__n" />
+     </e>
+     <e lm="দি">
+       <i>দ</i>
+       <par n="দ/ি__vblex" />
+     </e>
+     <e lm="কাট">
+       <i>কাট</i>
+       <par n="কাট__vblex" />
+     </e>
+     <e lm="কান্দ">
+       <i>কা</i>
+       <par n="কা/ন্দ__vblex" />
+     </e>
+     <e lm="সান">
+       <i>সান</i>
+       <par n="সান__vblex" />
+     </e>
+     <e lm="ক">
+       <i>ক</i>
+       <par n="ক__vblex" />
+     </e>
+     <e lm="খা">
+       <i>খা</i>
+       <par n="খা__vblex" />
+     </e>
+     <e lm="ডাক">
+       <i>ডাক</i>
+       <par n="ডাক__vblex" />
+     </e>
+     <e lm="রাখ">
+       <i>রাখ</i>
+       <par n="রাখ__vblex" />
+     </e>
+     <e lm="থো">
+       <i>থো</i>
+       <par n="থো__vblex" />
+     </e>
+     <e lm="সেন্দা">
+       <i>সেন্দা</i>
+       <par n="সেন্দা__vblex" />
+     </e>
+     <e lm="যা">
+       <i>যা</i>
+       <par n="যা__vblex" />
+     </e>
+     <e lm="ধর">
+       <i>ধর</i>
+       <par n="ধর__vblex" />
+     </e>
+     <e lm="শুন">
+       <i>শুন</i>
+       <par n="শুন__vblex" />
+     </e>
+     <e lm="উঠ">
+       <i>উঠ</i>
+       <par n="উঠ__vblex" />
+     </e>
+     <e lm="হাস">
+       <i>হাস</i>
+       <par n="হাস__vblex" />
+     </e>
+     <e lm="কিন">
+       <i>কিন</i>
+       <par n="কিন__vblex" />
+     </e>
+     <e lm="ফেল">
+       <i>ফেল</i>
+       <par n="ফেল__vblex" />
+     </e>
+     <e lm="মেলা">
+       <i>মেলা</i>
+       <par n="মেলা__adj" />
+     </e>
+     <e lm="কিপটা">
+       <i>কিপটা</i>
+       <par n="কিপটা__adj" />
+     </e>
+     <e lm="মুই">
+       <i>ম</i>
+       <par n="ম/ুই__prn" />
+     </e>
+     <e lm="হারা">
+       <i>হা</i>
+       <par n="হা/রা__prn" />
+     </e>
+     <e lm="তোমাক">
+       <i>তোমা</i>
+       <par n="তোমা/ক__prn" />
+     </e>
+     <e lm="গোরত">
+       <i>গোরত</i>
+       <par n="গোরত__post" />
+     </e>
+     <e lm="নিবা">
+       <i>নিবা</i>
+       <par n="গোরত__post" />
+     </e>
+     <e lm="থেকি">
+       <i>থেকি</i>
+       <par n="গোরত__post" />
+     </e>
+     <e lm="দু">
+       <i>দু</i>
+       <par n="দু__num" />
+     </e>
+     <e lm="বত্রিশ">
+       <i>বত্রিশ</i>
+       <par n="দু__num" />
+     </e>
+</section>
   <section id="final" type="inconditional">
     <e>
       <par n="separa" />
