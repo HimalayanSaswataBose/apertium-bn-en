@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
   <alphabet>
-    ঁংঃঅআইঈউঊঋঌএঐওঔকখগঘঙচছজঝঞটঠডঢণতথদধনপফবভমযরলশষসহ়ঽািীুূৃৄেৈোৌ্ৎৗড়ঢ়য়ৠৡৢৣ০১২৩৪৫৬৭৮৯ৰৱ৲৳৴৵৶৷৸৹৺</alphabet>
+    ঁংঃঅআইঈউঊঋঌএঐওঔকখগঘঙচছজঝঞটঠডঢণতথদধনপফবভমযরলশষসহ়ঽািীুূৃৄেৈোৌ্ৎৗড়ঢ়য়ৠৡৢৣ০১২৩৪৫৬৭৮৯ৰৱ৲৳৴৵৶৷৸৹৺
+  </alphabet>
   <sdefs>
     <sdef n="n" c="Noun" />
     <sdef n="np" c="Proper noun" />
@@ -32164,6 +32165,12 @@
 
     <!--Nouns-->
     <pardef n="কারবার__n">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -32192,6 +32199,12 @@
       </e>
     </pardef>
     <pardef n="গা__n">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -32220,6 +32233,12 @@
       </e>
     </pardef>
     <pardef n="সুদ__n">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -32366,6 +32385,12 @@
       </e>
     </pardef>
     <pardef n="পয়সা__n">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -32420,6 +32445,12 @@
       </e>
     </pardef>
     <pardef n="বচ্ছর__n">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -32571,6 +32602,12 @@
     <!--Verbs-->
 
     <pardef n="দ/ি__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -32690,6 +32727,12 @@
       </e>
     </pardef>
     <pardef n="কাট__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -32800,6 +32843,12 @@
       </e>
     </pardef>
     <pardef n="কা/ন্দ__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l>ন্দ</l>
@@ -32844,6 +32893,12 @@
       </e>
     </pardef>
     <pardef n="সান__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -32919,6 +32974,12 @@
       </e>
     </pardef>
     <pardef n="ক__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -33093,6 +33154,12 @@
       </e>
     </pardef>
     <pardef n="খা__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -33155,6 +33222,12 @@
       </e>
     </pardef>
     <pardef n="ডাক__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -33206,6 +33279,12 @@
       </e>
     </pardef>
     <pardef n="রাখ__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l>েক</l>
@@ -33293,6 +33372,12 @@
       </e>
     </pardef>
     <pardef n="থো__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -33306,6 +33391,12 @@
       </e>
     </pardef>
     <pardef n="সেন্দা__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -33369,6 +33460,12 @@
       </e>
     </pardef>
     <pardef n="যা__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -33457,6 +33554,12 @@
       </e>
     </pardef>
     <pardef n="ধর__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -33506,6 +33609,12 @@
       </e>
     </pardef>
     <pardef n="শুন__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -33549,6 +33658,12 @@
       </e>
     </pardef>
     <pardef n="উঠ__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -33605,6 +33720,12 @@
       </e>
     </pardef>
     <pardef n="হাস__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -33630,6 +33751,12 @@
       </e>
     </pardef>
     <pardef n="কিন__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -33698,6 +33825,12 @@
       </e>
     </pardef>
     <pardef n="ফেল__vblex">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -34061,6 +34194,12 @@
     <!--Adjectives-->
 
     <pardef n="মেলা__adj">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -34093,6 +34232,12 @@
       </e>
     </pardef>
     <pardef n="কিপটা__adj">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -34106,6 +34251,12 @@
       </e>
     </pardef>
     <pardef n="ফেরতা__adj">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -34121,6 +34272,12 @@
     <!--Pronoun-->
 
     <pardef n="ম/ুই__prn">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l>ুই</l>
@@ -34163,6 +34320,12 @@
       </e>
     </pardef>
     <pardef n="হা/রা__prn">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l>রা</l>
@@ -34218,6 +34381,12 @@
       </e>
     </pardef>
     <pardef n="তোমা/ক__prn">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l></l>
@@ -34252,6 +34421,12 @@
     <!--Postpositions-->
 
     <pardef n="থেকি__post">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -34263,6 +34438,12 @@
       </e>
     </pardef>
     <pardef n="গোরত__post">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -34274,6 +34455,12 @@
       </e>
     </pardef>
     <pardef n="নিবা__post">
+      <e>
+        <p>
+          <l />
+          <r />
+        </p>
+      </e>
       <e alt="Barendri">
         <p>
           <l />
@@ -67466,7 +67653,7 @@
        <i>থেকি</i>
        <par n="গোরত__post" />
      </e>
-</section>
+  </section>
   <section id="final" type="inconditional">
     <e>
       <par n="separa" />
